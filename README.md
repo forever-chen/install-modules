@@ -18,7 +18,7 @@ npm install install-modules -g
 此命令会安装此项目下除了公用package.json文件以外的特有的模块
 
 ```
-* ![示例](https://github.com/forever-chen/npm_modles/blob/master/install/img/example.jpg?raw=true)
+* ![示例](https://github.com/forever-chen/install-modules/blob/master/img/example.jpg)
 ### 工具作用
 * 对于本地多个项目由于每一个项目都要生成node_modules文件夹，有许多相同的依赖，多次安装占用空间太大
 ### [源码地址,有什么问题大家可以提出来，我随时修正](https://github.com/forever-chen/npm_modles/tree/master/install)
